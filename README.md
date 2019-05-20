@@ -1,7 +1,7 @@
 # perhitungan
 
 <center>
-<img width="100px" src="https://i.ibb.co/McSy8Ms/Screenmemo-2019-05-20-12-06-28.png">
+<img width="200px" src="https://i.ibb.co/McSy8Ms/Screenmemo-2019-05-20-12-06-28.png">
 <h1>cara menggunakan tool ini ialah</h1>
 1. pkg install php
 
