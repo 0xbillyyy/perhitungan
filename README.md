@@ -1,5 +1,7 @@
 # perhitungan
 
+<center>
+<img src="https://ibb.co/R3bGhz9">
 <h1>cara menggunakan tool ini ialah</h1>
 1. pkg install php
 
@@ -19,3 +21,4 @@
 #mau kenalan?? Hubungi nomer ini
 
 085837173009
+</center>
