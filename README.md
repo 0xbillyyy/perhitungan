@@ -1,6 +1,6 @@
 # perhitungan
 
-<h1>cara menggunakan tool ini ialah
+<h1>cara menggunakan tool ini ialah</h1>
 1. pkg install php
 
 2. pkg install python2
@@ -12,7 +12,7 @@
 5. cd perhitungan
 
 6. python2 hitung.py
-<h1>
+
 
 #mau recode??? Dengan senang hati:)
 
