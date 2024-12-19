@@ -20,5 +20,5 @@
 
 #mau kenalan?? Hubungi nomer ini
 
-085837173009
+
 </center>
